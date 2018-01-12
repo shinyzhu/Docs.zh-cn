@@ -77,13 +77,13 @@ public class Startup
 
 有关详细信息，请参阅[应用程序启动](xref:fundamentals/startup)。
 
-## <a name="content-root"></a>内容根
+## <a name="content-root"></a>内容根目录
 
-内容根是应用所使用的任何内容的基路径，如视图、[Razor 页面](xref:mvc/razor-pages/index) 和静态资产。 默认情况下，内容根与用于托管应用的可执行文件的应用程序基路径相同。
+内容根目录是应用所使用的任何内容的根路径，如视图、[Razor 页面](xref:mvc/razor-pages/index) 和静态资源。 默认情况下，内容根目录与用于托管应用的可执行文件的应用程序根路径相同。
 
-## <a name="web-root"></a>Web 根
+## <a name="web-root"></a>Web 根目录
 
-应用的 Web 根是项目中的目录，其中包含公共资源、CSS 等静态资源、JavaScript 和图形文件。
+应用的 Web 根目录是项目中的目录，其中包含公共资源、CSS 等静态资源、JavaScript 和图片文件。
 
 ## <a name="dependency-injection-services"></a>依赖关系注入（服务）
 
